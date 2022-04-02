@@ -17,4 +17,8 @@ $toyota->set_make('TOYOTA');
 echo $mustang->get_make();
 echo "<br>";
 echo $toyota->get_make();
+<<<<<<< HEAD
 ?>
+=======
+?>
+>>>>>>> e63f22d32854e955b3a11f8b5615fe717f9de5e0
